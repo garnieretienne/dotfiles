@@ -1,0 +1,11 @@
+urxvt*font:        	xft:Monospace:pixelsize=11
+urxvt.background:       black
+urxvt.foreground:       white
+urxvt.scrollBar:        false
+urxvt.tintColor:        white
+urxvt.fading:           15
+urxvt.fadeColor:        black
+urxvt.shading:          75
+urxvt.pointerColor:     black
+urxvt.pointerColor2:    white
+
